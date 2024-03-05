@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="lib">
+  <library name="l">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/InventorySystem/lib/fontawesomefx-8.9.jar!/" />
       <root url="jar://$PROJECT_DIR$/InventorySystem/lib/controlsfx-8.40.12.jar!/" />
